@@ -1,0 +1,62 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  /* Set the minimum height of the page to 100% of the viewport height */
+  background-color: #132531;
+}
+
+.head {
+
+  background-color: #d12651;
+  color: #ffffff;
+  text-align: center;
+  padding: 1% 0;
+}
+
+/* Navigation list styles */
+.nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-link {
+  text-decoration: none;
+
+  color: #a2c199;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav-icon {
+  margin-right: 10px;
+}
+
+/* Main content styles */
+.main-content {
+  flex: 1;
+  /* Allow the main content area to grow and fill the remaining space */
+}
+
+/* Footer styles */
+.footer {
+  background-color: #d12651;
+  color: #ffffff;
+  text-align: center;
+  padding: 1% 0;
+  font-size: 23px;
+}
+
+
+.footer-img {
+  width: 20%;
+  border-radius: 50%;
+  /* Make the image round */
+}
+
+.btn-success {
+  font-size: 23px;
+}

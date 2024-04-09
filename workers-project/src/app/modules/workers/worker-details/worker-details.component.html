@@ -1,0 +1,74 @@
+<div class="container py-4">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="card-title text-center mb-4">Worker  Details</h2>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <!-- First Name -->
+                    <div class="form-group">
+                        <label for="firstName">First Name:</label>
+                        <input type="text" class="form-control" id="firstName" value="{{ worker.firstName }}" disabled>
+                    </div>
+
+                    <!-- Last Name -->
+                    <div class="form-group">
+                        <label for="lastName">Last Name:</label>
+                        <input type="text" class="form-control" id="lastName" value="{{ worker.lastName }}" disabled>
+                    </div>
+
+                    <!-- Identity -->
+                    <div class="form-group">
+                        <label for="identity">Identity:</label>
+                        <input type="text" class="form-control" id="identity" value="{{ worker.identity }}" disabled>
+                    </div>
+
+                    <!-- Start of Work -->
+                    <div class="form-group">
+                        <label for="startOfWork">Start of Work:</label>
+                        <input type="text" class="form-control" id="startOfWork" value="{{ worker.startOfWork | date }}"
+                            disabled>
+                    </div>
+
+                    <!-- Birthdate -->
+                    <div class="form-group">
+                        <label for="birthdate">Birthdate:</label>
+                        <input type="text" class="form-control" id="birthdate" value="{{ worker.birthdate | date }}" disabled>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <!-- Gender -->
+                    <div class="form-group">
+                        <label for="gender">Gender:</label>
+                        <input type="text" class="form-control" id="gender"
+                            value="{{ worker.gender.toString() ==='Male' ? 'Male' : 'Female' }}" disabled>
+                    </div>
+
+                    <!-- Status -->
+                    <div class="form-group">
+                        <label for="status">Status:</label>
+                        <input type="text" class="form-control" id="status" value="{{ worker.status ? 'Active' : 'Inactive' }}"
+                            disabled>
+                    </div>
+
+                    <!-- List of Roles -->
+                    <div *ngIf="worker.roles.length > 0" class="form-group">
+                        <h4 class="card-title">Roles:</h4>
+                        <ul class="list-group">
+                            <li *ngFor="let role of worker.roles" class="list-group-item">{{ role.roleName }}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Back Button -->
+            <div class="text-right mt-3" style="position: absolute; top: 0; right: 0;  margin: 10px;">
+                <button type="button" class="btn btn-secondary" routerLink="/workers">
+                    Back <i class="fas fa-arrow-right mr-2"></i>
+                </button>
+            </div>
+
+        </div>
+    </div>
+</div>

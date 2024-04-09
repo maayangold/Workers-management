@@ -1,0 +1,41 @@
+<div class="page">
+    <div class="head">
+        <h1 class="display-4">Welcome to Our Supermarket</h1>
+        <p class="lead">Explore a wide range of managment the workers of the market!</p>
+    </div>
+    <div class="container main-content">
+        <ul class="nav-list">
+            <li>
+                <a routerLink="/home" class="nav-link">
+                    <i class="fas fa-home nav-icon"></i> Home Page
+                </a>
+            </li>
+            <li>
+                <a routerLink="/workers" class="nav-link">
+                    <i class="fas fa-users nav-icon"></i> Worker List
+                </a>
+            </li>
+            <li>
+                <a routerLink="/about" class="nav-link">
+                    <i class="fas fa-info-circle nav-icon"></i> About
+                </a>
+            </li>
+            <li *ngIf="isLoggedIn()">
+                <a (click)="logout()" class="nav-link">
+                    <i class="fas fa-sign-out-alt nav-icon"></i> Logout
+                </a>
+            </li>
+        </ul>
+        <button *ngIf="!isLoggedIn()" class=" btn btn-success position-absolute top-0 end-0 m-4" (click)="goToLogin()">Login</button>
+
+        <router-outlet></router-outlet>
+    </div>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <footer class="footer">
+        <div class="container">
+            <img [src]="animation" alt="Animation Image" class="footer-img">
+            <p>&copy; Maayan Goldshtein 2024 Supermarket. workers-menagment-application.</p>
+        </div>
+    </footer>
+</div>

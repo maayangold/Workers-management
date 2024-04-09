@@ -1,0 +1,61 @@
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <div class="card border-secondary">
+        <div class="card-header bg-secondary text-light">Add Roles</div>
+        <div class="card-body">
+          <h5 class="card-title">{{ worker.firstName }} {{ worker.lastName }}</h5>
+          <form [formGroup]="roleForm">
+            <!-- Role Selection -->
+            <div class="form-group">
+              <label for="roleId">Select Role:</label>
+              <select class="form-control" id="roleId" formControlName="roleId">
+                <option *ngFor="let role of roles" [value]="role.id">{{ role.name }}</option>
+              </select>
+              <div class="invalid-feedback"
+                *ngIf="roleForm.controls['roleId'].errors && roleForm.controls['roleId'].touched">
+                Role is required
+              </div>
+            </div>
+
+            <!-- Start of Role -->
+            <div class="form-group">
+              <label for="startRoleDate">Start of Work</label>
+              <input type="date" class="form-control" id="startRoleDate" formControlName="startRoleDate">
+              <div class="invalid-feedback"
+                *ngIf="roleForm.controls['startRoleDate'].errors && roleForm.controls['startRoleDate'].touched">
+                Start of Role Date is required
+              </div>
+            </div>
+
+            <!-- Finish Buttons -->
+            <div class="row mt-3" *ngIf="!isExsistWorker">
+              <div class="col-md-6">
+                <button type="button" class="btn btn-primary btn-block" (click)="onSaveWorker()">Add Worker</button>
+              </div>
+              <div class="col-md-6">
+                <div class="d-flex justify-content-end">
+                  <button type="button" class="btn btn-secondary btn-block" routerLink="/workers"
+                    (click)="onCancel()">Cancel</button>
+                </div>
+              </div>
+
+            </div>
+            <div class="row mt-3" *ngIf="isExsistWorker">
+              <div class="col-md-6">
+                <button type="button" class="btn btn-primary btn-block" (click)="addRoleToExistingWorker()">Add
+                  Role</button>
+              </div>
+              <div class="col-md-6">
+                <div class="d-flex justify-content-end">
+                  <button type="button" class="btn btn-secondary btn-block" (click)="onFinish()">Finish </button>
+                </div>
+
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

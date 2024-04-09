@@ -1,0 +1,88 @@
+<div class="container py-4">
+  <h2 class="text-center mb-4" style="color: white;">Filter Workers</h2>
+  <div class="row mb-4">
+    <!-- Search filters -->
+    <div class="col-md-4">
+      <label>Select Name</label>
+      <input type="text" class="form-control" placeholder="Search by worker Name" [(ngModel)]="searchWorkerName"
+        (keyup.enter)="applyFilters()">
+    </div>
+    <div class="col-md-4">
+      <label>Select Role</label>
+      <select class="form-control" [(ngModel)]="selectedRole" (change)="applyFilters()">
+        <option value="All Roles">All Roles</option>
+        <option *ngFor="let role of roles" [value]="role.name">{{ role.name }}</option>
+      </select>
+    </div>
+    <div class="col-md-4">
+      <label>Select TZ</label>
+      <input type="text" class="form-control" placeholder="Search by worker TZ" [(ngModel)]="searchWorkerId"
+        (keyup.enter)="applyFilters()">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <!-- Add new worker button -->
+
+
+      <button class="btn btn-outline-danger mb-3" (click)="addNewWorker()">Add New Worker</button>
+
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" id="showAllWorkersCheckbox" [(ngModel)]="showAllWorkers"
+          (change)="filterActiveWorkers()">
+        <label style="color: white;" class="form-check-label" for="showAllWorkersCheckbox">
+          Show All Workers
+        </label>
+      </div>
+
+      <!-- Worker table -->
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Identity</th>
+            <th>Start of Work</th>
+            <th>Details</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Iterate through filtered workers -->
+          <tr *ngFor="let worker of filteredWorkers">
+            <td>{{ worker.firstName }}</td>
+            <td>{{ worker.lastName }}</td>
+            <td>{{ worker.identity }}</td>
+            <td>{{ worker.startOfWork | date: 'dd/MM/yyyy' }}</td>
+            <td>
+              <button class="btn btn-secondary btn-sm" (click)="showWorkerDetails(worker.id)">look
+                <i class="fas fa-user"></i>
+                <div class="hover-info">Show Worker Details</div> <!-- Hovering square for show details action -->
+              </button>
+            </td>
+            <td>
+              <!-- buttons -->
+              <button class="btn btn-danger btn-sm" (click)="deleteWorker(worker.id)">
+                <i class="fas fa-trash"></i>
+                <div class="hover-info">Delete Worker</div> <!-- Hovering square for delete action -->
+              </button>
+              <span>&nbsp;</span><span>&nbsp;</span>
+              <button class="btn btn-primary btn-sm" (click)="editWorker(worker.id)">
+                <i class="fas fa-pencil-alt"></i>
+                <div class="hover-info">Edit Worker</div> <!-- Hovering square for edit action -->
+              </button>
+
+        
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <!-- Link for adding a new role -->
+      <div class="text-center">
+        <a href="#" class="btn btn-success" (click)="addNewRole()">
+          <i class="fas fa-plus-circle"></i> You have a new role in your business? Type here!
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,392 @@
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\server.exe
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\server.deps.json
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\server.dll
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\server.pdb
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\year b\angular\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.csproj.CopyComplete
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.dll
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.pdb
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\user1\Desktop\year b\angular\server\server\obj\Debug\net6.0\ref\server.dll
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\server.exe
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\server.deps.json
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\server.dll
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\server.pdb
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\year b\angular\angular\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.csproj.CopyComplete
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.dll
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.pdb
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\user1\Desktop\year b\angular\angular\server\server\obj\Debug\net6.0\ref\server.dll
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\server.exe
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\server.deps.json
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\server.dll
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\server.pdb
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.csproj.CopyComplete
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.dll
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\refint\server.dll
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.pdb
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+Y:\Groups\Group_1\הרשלר  רות\angular-main\server\server\obj\Debug\net6.0\ref\server.dll
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\appsettings.json
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\server.exe
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\server.deps.json
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\server.dll
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\server.pdb
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\משפחת גולדשטיין\Desktop\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.csproj.Up2Date
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.dll
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.pdb
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\משפחת גולדשטיין\Desktop\server\server\obj\Debug\net6.0\ref\server.dll
+E:\אנגולר\server\server\bin\Debug\net6.0\appsettings.Development.json
+E:\אנגולר\server\server\bin\Debug\net6.0\appsettings.json
+E:\אנגולר\server\server\bin\Debug\net6.0\server.exe
+E:\אנגולר\server\server\bin\Debug\net6.0\server.deps.json
+E:\אנגולר\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+E:\אנגולר\server\server\bin\Debug\net6.0\server.dll
+E:\אנגולר\server\server\bin\Debug\net6.0\server.pdb
+E:\אנגולר\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\אנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\אנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\אנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\אנגולר\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+E:\אנגולר\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+E:\אנגולר\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+E:\אנגולר\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+E:\אנגולר\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+E:\אנגולר\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+E:\אנגולר\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+E:\אנגולר\server\server\obj\Debug\net6.0\staticwebassets.build.json
+E:\אנגולר\server\server\obj\Debug\net6.0\staticwebassets.development.json
+E:\אנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\אנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+E:\אנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+E:\אנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+E:\אנגולר\server\server\obj\Debug\net6.0\staticwebassets.pack.json
+E:\אנגולר\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+E:\אנגולר\server\server\obj\Debug\net6.0\server.csproj.Up2Date
+E:\אנגולר\server\server\obj\Debug\net6.0\server.dll
+E:\אנגולר\server\server\obj\Debug\net6.0\refint\server.dll
+E:\אנגולר\server\server\obj\Debug\net6.0\server.pdb
+E:\אנגולר\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+E:\אנגולר\server\server\obj\Debug\net6.0\ref\server.dll
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\appsettings.Development.json
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\appsettings.json
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.exe
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.deps.json
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.dll
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.pdb
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets.build.json
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets.development.json
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets.pack.json
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.dll
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\refint\server.dll
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.pdb
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\ref\server.dll
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\appsettings.Development.json
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\appsettings.json
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.exe
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.deps.json
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.dll
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.pdb
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets.build.json
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets.development.json
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets.pack.json
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.dll
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\refint\server.dll
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.pdb
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\ref\server.dll
+H:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.csproj.Up2Date
+E:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.csproj.CopyComplete
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\appsettings.Development.json
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\appsettings.json
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.exe
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.deps.json
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.dll
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\server.pdb
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\פרויקט באנגולר\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets.build.json
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets.development.json
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\staticwebassets.pack.json
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.csproj.Up2Date
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.dll
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\refint\server.dll
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.pdb
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+F:\פרויקט באנגולר\server\server\obj\Debug\net6.0\ref\server.dll
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.dll
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\refint\server.dll
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.pdb
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\appsettings.Development.json
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\appsettings.json
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\server.exe
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\server.deps.json
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\server.dll
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\server.pdb
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets.build.json
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets.development.json
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.csproj.Up2Date
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+D:\מעיין\!!!!פרקטיקום\server\server\obj\Debug\net6.0\ref\server.dll
+D:\מעיין\!!!!פרקטיקום\server\server\bin\Debug\net6.0\AutoMapper.dll
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\appsettings.Development.json
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\appsettings.json
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\server.exe
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\server.deps.json
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\server.dll
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\server.pdb
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\AutoMapper.dll
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\מעיין\פרקטיקום\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets.build.json
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets.development.json
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.csproj.Up2Date
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.dll
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\refint\server.dll
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.pdb
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+D:\מעיין\פרקטיקום\server\server\obj\Debug\net6.0\ref\server.dll
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.dll
+H:\פרקטיקום\server\server\obj\Debug\net6.0\refint\server.dll
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.pdb
+H:\פרקטיקום\server\server\bin\Debug\net6.0\appsettings.Development.json
+H:\פרקטיקום\server\server\bin\Debug\net6.0\appsettings.json
+H:\פרקטיקום\server\server\bin\Debug\net6.0\server.exe
+H:\פרקטיקום\server\server\bin\Debug\net6.0\server.deps.json
+H:\פרקטיקום\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+H:\פרקטיקום\server\server\bin\Debug\net6.0\server.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\server.pdb
+H:\פרקטיקום\server\server\bin\Debug\net6.0\AutoMapper.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Humanizer.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Core.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Data.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Core.pdb
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Data.pdb
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+H:\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets.build.json
+H:\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets.development.json
+H:\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+H:\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+H:\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+H:\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+H:\פרקטיקום\server\server\obj\Debug\net6.0\staticwebassets.pack.json
+H:\פרקטיקום\server\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.csproj.Up2Date
+H:\פרקטיקום\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+H:\פרקטיקום\server\server\obj\Debug\net6.0\ref\server.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Service.dll
+H:\פרקטיקום\server\server\bin\Debug\net6.0\Service.pdb

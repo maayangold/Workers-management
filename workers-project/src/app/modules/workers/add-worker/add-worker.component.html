@@ -1,0 +1,141 @@
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <div class="card border-secondary">
+        <div class="card-header bg-secondary text-light">Add New Work</div>
+        <div class="card-body">
+          <h5 class="card-title">New Worker Information</h5>
+          <form [formGroup]="workerForm" (ngSubmit)="goToNextPage()">
+            <!-- First Name -->
+            <div class="form-group">
+              <label for="firstName">First Name</label>
+              <input type="text" class="form-control" id="firstName" formControlName="firstName"
+                placeholder="Enter first name">
+              <ng-container *ngIf="workerForm.controls['firstName'].errors && workerForm.controls['firstName'].touched">
+                <div class="alert alert-danger" *ngIf="workerForm.controls['firstName'].errors['required']">First name
+                  is
+                  required</div>
+                <div class="alert alert-danger" *ngIf="workerForm.controls['firstName'].errors['minlength']">This field
+                  must
+                  have at
+                  least four characters</div>
+                <div class="alert alert-danger" *ngIf="workerForm.controls['firstName'].errors['maxlength']">This field
+                  can't
+                  be more
+                  than 15 characters</div>
+              </ng-container>
+            </div>
+
+            <!-- Last Name -->
+            <div class="form-group">
+              <label for="lastName">Last Name</label>
+              <input type="text" class="form-control" id="lastName" formControlName="lastName"
+                placeholder="Enter last name">
+              <ng-container *ngIf="workerForm.controls['lastName'].errors && workerForm.controls['lastName'].touched">
+                <div class="alert alert-danger" *ngIf="workerForm.controls['lastName'].errors['required']">Last name is
+                  required</div>
+                <div class="alert alert-danger" *ngIf="workerForm.controls['lastName'].errors['minlength']">This field
+                  must
+                  have at
+                  least four characters</div>
+                <div class="alert alert-danger" *ngIf="workerForm.controls['lastName'].errors['maxlength']">This field
+                  can't
+                  be more
+                  than 20 characters</div>
+              </ng-container>
+            </div>
+
+            <!-- identity -->
+            <div class="form-group">
+              <label for="identity">identity</label>
+              <input type="text" class="form-control" id="identity" formControlName="identity"
+                placeholder="Enter identity">
+              <ng-container *ngIf="workerForm.controls['identity'].errors && workerForm.controls['identity'].touched">
+                <div class="alert alert-danger" *ngIf="workerForm.controls['identity'].errors['required']">identity is
+                  required</div>
+                <div class="alert alert-danger" *ngIf="workerForm.controls['identity'].errors['pattern']">Identity must
+                  be a
+                  9-digit number</div>
+              </ng-container>
+            </div>
+
+            <!-- Start of Work -->
+            <div class="form-group">
+              <label for="startOfWork">Start of Work</label>
+              <input type="date" class="form-control" id="startOfWork" formControlName="startOfWork">
+              <ng-container
+                *ngIf="workerForm.controls['startOfWork'].errors && workerForm.controls['startOfWork'].touched">
+                <div class="alert alert-danger" *ngIf="workerForm.controls['startOfWork'].errors['required']">Start of
+                  Work is
+                  required</div>
+              </ng-container>
+            </div>
+
+            <!-- Birthdate -->
+            <div class="form-group">
+              <label for="birthdate">Birthdate</label>
+              <input type="date" class="form-control" id="birthdate" formControlName="birthdate">
+              <ng-container *ngIf="workerForm.controls['birthdate'].errors && workerForm.controls['birthdate'].touched">
+                <div class="alert alert-danger" *ngIf="workerForm.controls['birthdate'].errors['required']">Birthdate is
+                  required</div>
+              </ng-container>
+            </div>
+
+            <!-- Gender -->
+            <div class="form-group">
+              <label for="gender">Gender</label>
+              <div class="form-check">
+                <input class="form-check-input" type="radio" [value]="gender.Male" name="gender"
+                  formControlName="gender" checked />Male
+                <br> <input class="form-check-input" type="radio" [value]="gender.Female" name="gender"
+                  formControlName="gender" />Female
+                <br>
+              </div>
+              <ng-container *ngIf="workerForm.controls['gender'].errors && workerForm.controls['gender'].touched">
+                <div class="alert alert-danger" *ngIf="workerForm.controls['gender'].errors['required']">Gender is
+                  required
+                </div>
+              </ng-container>
+            </div>
+
+
+
+
+            <!-- Status -->
+            <div class="form-group">
+              <div class="form-group custom-checkbox">
+                <div class="form-check form-switch">
+                  <input class="form-check-input" type="checkbox" role="switch" id="status" formControlName="status"
+                    checked>
+                  <label class="form-check-label" for="status">Status</label>
+                </div>
+
+              </div>
+              <ng-container *ngIf="workerForm.controls['status'].errors && workerForm.controls['status'].touched">
+                <div class="alert alert-danger" *ngIf="workerForm.controls['status'].errors['required']">Status is
+                  required
+                </div>
+              </ng-container>
+            </div>
+
+            <!-- Buttons -->
+            <div class="row">
+              <div class="col-md-6">
+                <button type="button" class="btn btn-secondary btn-block" routerLink="/workers">
+                  <i class="fas fa-arrow-left"></i> Back
+                </button>
+              </div>
+              <div class="col-md-6">
+                <div class="d-flex justify-content-end">
+                  <button type="submit" class="btn btn-primary">
+                    Next Page
+                  </button>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

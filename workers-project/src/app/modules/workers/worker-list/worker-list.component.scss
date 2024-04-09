@@ -1,0 +1,37 @@
+.hover-info {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .btn:hover .hover-info {
+    visibility: visible;
+    opacity: 1;
+  }
+  .custom-checkbox input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 30px;
+    height: 30px;
+    border: 3px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.custom-checkbox input[type="checkbox"]:checked {
+    background-color: #51d88e;
+}
+
+.custom-checkbox .form-check-label {
+    color: white;
+    font-size: 23px;
+  
+}

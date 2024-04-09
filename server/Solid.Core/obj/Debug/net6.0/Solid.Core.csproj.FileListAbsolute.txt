@@ -1,0 +1,10 @@
+D:\מעיין\פרקטיקום\server\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+D:\מעיין\פרקטיקום\server\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\מעיין\פרקטיקום\server\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+D:\מעיין\פרקטיקום\server\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+D:\מעיין\פרקטיקום\server\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+H:\פרקטיקום\server\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+H:\פרקטיקום\server\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרקטיקום\server\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+H:\פרקטיקום\server\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+H:\פרקטיקום\server\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+H:\פרקטיקום\server\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+H:\פרקטיקום\server\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרקטיקום\server\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+H:\פרקטיקום\server\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+H:\פרקטיקום\server\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
