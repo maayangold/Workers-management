@@ -126,7 +126,7 @@ export class EditWorkerComponent {
           Swal.fire({
             position: "top-end",
             icon: "success",
-            title: `Added role to ${this.worker.firstName}`,
+            title: `Update data for ${this.worker.firstName}`,
             showConfirmButton: false,
             timer: 1500,
           });

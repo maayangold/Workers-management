@@ -8,9 +8,10 @@ import { FormsModule, ReactiveFormsModule } from "@angular/forms";
 import { CommonModule, DatePipe } from "@angular/common";
 import { EditWorkerComponent } from "./edit-worker/edit-worker.component";
 import { AddWorkerComponent } from "./add-worker/add-worker.component";
-import { JwtInterceptor } from "src/app/jwt-interceptor.component";
+import { JwtInterceptor } from "src/app/jwt-interceptor.service";
 import { AddRoleToWorkerComponent } from "./add-role-to-worker/add-role-to-worker.component";
 import { WorkerDetailsComponent } from "./worker-details/worker-details.component";
+import { AuthInterceptor } from "src/app/auth-interceptor.service";
 
 
 @NgModule({
@@ -27,6 +28,7 @@ import { WorkerDetailsComponent } from "./worker-details/worker-details.componen
 
     providers: [
         { provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true },
+        { provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true },
         WorkerService,
         DatePipe
     ],

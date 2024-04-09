@@ -24,7 +24,7 @@ export class WorkersListComponent {
 
 
 
-  constructor(private _workerService: WorkerService,  private _router: Router) {
+  constructor(private _workerService: WorkerService,  private _router: Router,private _roleSerivce:RoleService) {
   
   }
   ngOnInit(): void {
@@ -33,6 +33,10 @@ export class WorkersListComponent {
       this.filteredWorkers = this.workers.filter(worker => {
         return this.showAllWorkers || worker.status === true;
       });
+    });
+    this._roleSerivce.getAllRoles().subscribe((data) => {
+      this.roles = data;
+   
     });
 
   }

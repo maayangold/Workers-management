@@ -6,8 +6,9 @@ import { RoleService } from "./role.service";
 import { NgModule } from "@angular/core";
 import { AddRoleComponent } from "./add-role/add-role.component";
 import { RoleRoutingModule } from "./role-routing.module";
-import { JwtInterceptor } from "src/app/jwt-interceptor.component";
+import { JwtInterceptor } from "src/app/jwt-interceptor.service";
 import { EditRoleComponent } from "./edit-role/edit-role.component";
+import { AuthInterceptor } from "src/app/auth-interceptor.service";
 
 @NgModule({
     declarations: [AddRoleComponent, EditRoleComponent],
@@ -20,8 +21,10 @@ import { EditRoleComponent } from "./edit-role/edit-role.component";
 
 
     ],
-    providers: [RoleService
-        , { provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true },
+    providers: [RoleService ,
+         { provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true },
+         { provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true },
+
 
     ],
     exports: [AddRoleComponent],

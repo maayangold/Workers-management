@@ -42,7 +42,7 @@ namespace server.Controllers
                         issuer: _configuration.GetValue<string>("Jwt:Issuer"),
                         audience: _configuration.GetValue<string>("Jwt:Audience"),
                         claims: claims,
-                        expires: DateTime.Now.AddMinutes(6),
+                        expires: DateTime.Now.AddHours(5),//i handle in the client case of 401 unauthorized access if the time over i will be sent to page to click login again!
                         signingCredentials: signinCredentials
                     );
                     var tokenString = new JwtSecurityTokenHandler().WriteToken(tokenOptions);

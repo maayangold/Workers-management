@@ -10,7 +10,7 @@ import Swal from 'sweetalert2';
 })
 export class LoginComponent implements OnInit {
   loginForm: FormGroup;
-  errorMessage: string;
+  errorMessage: string=null;
 
   constructor(private workerService: WorkerService, private router: Router) { }
 
@@ -24,7 +24,7 @@ export class LoginComponent implements OnInit {
   login() {
     if (this.loginForm.invalid) {
       this.markFormGroupTouched(this.loginForm);
-
+      this.errorMessage = null
       return;
     }
     const { userName, password } = this.loginForm.value;
@@ -32,18 +32,18 @@ export class LoginComponent implements OnInit {
       .subscribe(
         (response: any) => {
           if (response && response.token) {
+            this.errorMessage = null;
             sessionStorage.setItem('token', response.token);
             let timerInterval;
             Swal.fire({
-              title: "Logging in...",
-              html: "load data.",
+              title: "Connects to the database...🔌",
+              html: "already finishing.",
               timer: 1500,
               timerProgressBar: true,
               didOpen: () => {
                 Swal.showLoading();
                 const timer = Swal.getPopup().querySelector("b");
                 timerInterval = setInterval(() => {
-                  timer.textContent = `${Swal.getTimerLeft()}`;
                 }, 100);
 
               },
@@ -59,7 +59,7 @@ export class LoginComponent implements OnInit {
         },
         (error) => {
           console.error('Error:', error);
-          this.errorMessage = 'An error occurred. Please try again later.';
+          this.errorMessage = 'An error occurred. Just maneger can use this app.';
         }
       );
   }

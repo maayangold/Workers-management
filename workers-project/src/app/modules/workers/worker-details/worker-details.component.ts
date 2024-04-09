@@ -13,7 +13,7 @@ import { Worker } from '../models/worker.model';
 export class WorkerDetailsComponent {
   worker:Worker;
   Gender
-  constructor(private _route: ActivatedRoute, private _workerService: WorkerService, private _roleService: RoleService, private _router: Router) {
+  constructor(private _route: ActivatedRoute, private _workerService: WorkerService, private _router: Router) {
 
   }
 
@@ -26,7 +26,7 @@ export class WorkerDetailsComponent {
             this.worker = data;          
           },
           () => {
-            Swal.fire({ icon: "error", title: "Error...", text: "There is no Course with such an id number" });
+            Swal.fire({ icon: "error", title: "Error...", text: "There is problem with worker in database!" });
             this._router.navigate(['/workers']);
           }
         );

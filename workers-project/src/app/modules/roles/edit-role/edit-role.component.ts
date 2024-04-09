@@ -54,7 +54,7 @@ export class EditRoleComponent {
           Swal.fire({
             position: "top-end",
             icon: "success",
-            title: `Added role to ${this.role.name}`,
+            title: `Edit role successfully`,
             showConfirmButton: false,
             timer: 1500,
           });
