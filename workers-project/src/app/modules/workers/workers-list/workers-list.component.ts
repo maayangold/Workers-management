@@ -4,7 +4,8 @@ import { Role } from '../../roles/role.model';
 import { WorkerService } from '../worker.service';
 import { Router } from '@angular/router';
 import { RoleService } from '../../roles/role.service';
-import { DatePipe } from '@angular/common';
+import * as XLSX from 'xlsx';
+
 
 import Swal from 'sweetalert2';
 @Component({
@@ -24,8 +25,8 @@ export class WorkersListComponent {
 
 
 
-  constructor(private _workerService: WorkerService,  private _router: Router,private _roleSerivce:RoleService) {
-  
+  constructor(private _workerService: WorkerService, private _router: Router, private _roleSerivce: RoleService) {
+
   }
   ngOnInit(): void {
     this._workerService.getWorkers().subscribe((data) => {
@@ -36,7 +37,7 @@ export class WorkersListComponent {
     });
     this._roleSerivce.getAllRoles().subscribe((data) => {
       this.roles = data;
-   
+
     });
 
   }
@@ -57,7 +58,7 @@ export class WorkersListComponent {
       const identitystartsWith = worker.identity.startsWith(this.searchWorkerId);
       const matchesName = worker.firstName.toLowerCase().includes(this.searchWorkerName.toLowerCase());
       const matchesRole = this.selectedRole === 'All Roles' || worker.roles.some(role => role.roleName === this.selectedRole);
-      return (active||this.showAllWorkers) && identitystartsWith && matchesRole && matchesName;
+      return (active || this.showAllWorkers) && identitystartsWith && matchesRole && matchesName;
     });
   }
 
@@ -86,14 +87,14 @@ export class WorkersListComponent {
         showConfirmButton: false,
         timer: 1500
       });
-  
+
       // Refresh workers list after successful status change
       this.refreshWorkersList();
     });
-    
+
     this.showAllWorkers = false;
   }
-  
+
   editWorker(id: number) {
     if (!this.isLoggedIn()) {
       this.showLoginError = true;
@@ -101,7 +102,7 @@ export class WorkersListComponent {
       this._router.navigate(['/workers/edit', id]);
     }
   }
-  
+
   deleteWorker(id: number) {
     const swalWithBootstrapButtons = Swal.mixin({
       customClass: {
@@ -110,7 +111,7 @@ export class WorkersListComponent {
       },
       buttonsStyling: false
     });
-    
+
     swalWithBootstrapButtons.fire({
       title: "Are you sure?",
       text: "You won't be able to revert this!",
@@ -129,7 +130,7 @@ export class WorkersListComponent {
             showConfirmButton: false,
             timer: 1500
           });
-  
+
           this.refreshWorkersList();
         }, (error) => {
           console.error('Error:', error);
@@ -137,7 +138,7 @@ export class WorkersListComponent {
       }
     });
   }
-  
+
   refreshWorkersList() {
     this._workerService.getWorkers().subscribe((data) => {
       this.workers = data;
@@ -146,10 +147,22 @@ export class WorkersListComponent {
       });
     });
   }
-  
+
 
   addNewRole() {
     this._router.navigate(['/roles'])
+  }
+  exportToExcel() {
+
+    // Extract data from the table
+    const ws: XLSX.WorkSheet = XLSX.utils.json_to_sheet(this.filteredWorkers);
+
+    // Create a new workbook and add the worksheet
+    const wb: XLSX.WorkBook = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, 'Workers');
+
+    // Generate the Excel file and trigger download
+    XLSX.writeFile(wb, 'workers.xlsx');
   }
 
 }
