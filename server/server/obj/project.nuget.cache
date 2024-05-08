@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RO0Vqms0OKnEoJ2RXwScpL4CEYE3nQJAvqaoS7YoN0KjayT11VGPaPjcxggvqpLeMSamOjwN7fOrOXm9IaKa/Q==",
+  "dgSpecHash": "ChYHiCDR/PeSATSVacYgpUyy/KAMhK+t502zuBdbrvC383+fFznTRr63IlKLI5FcmAv14h+d8h/EGf/cgyq1tg==",
   "success": true,
-  "projectFilePath": "D:\\מעיין\\Workers-management\\server\\server\\WorkerAPI.csproj",
+  "projectFilePath": "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\server\\WorkerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משפחת גולדשטיין\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\משפחת גולדשטיין\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j3MA3/gU/mFNB/bpKdzk2GO8iRX9C6t3wahbyOBKfnKmG7GHSp5e0dUjjvfQmdd86WqmSJr+T6B1JjIR7PGwsg==",
+  "dgSpecHash": "YxCSrazL1tu8BgIIBi5sL0HEFe+Sk+bF9qCTXabDg4ZjGSLPKtlDVsF7Ow/L4GMYXyGOfkO5nVpqsZEahaZUFA==",
   "success": true,
-  "projectFilePath": "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj",
+  "projectFilePath": "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משפחת גולדשטיין\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\משפחת גולדשטיין\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

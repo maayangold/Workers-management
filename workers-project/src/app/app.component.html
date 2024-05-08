@@ -27,7 +27,7 @@
                 </a>
             </li>
         </ul>
-    <div class=""  *ngIf="loginErrorMessage!==null">{{ loginErrorMessage }}</div>
+    <div class="alert alert-danger"  *ngIf="loginErrorMessage!==null">{{ loginErrorMessage }}</div>
 
         <button *ngIf="!isLoggedIn()" class=" btn btn-success position-absolute top-0 end-0 m-4"
             (click)="goToLogin()">Login</button>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\מעיין\\Workers-management\\server\\Data\\Data.csproj": {}
+    "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Data\\Data.csproj": {}
   },
   "projects": {
-    "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj": {
+    "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj",
+        "projectPath": "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\משפחת גולדשטיין\\.nuget\\packages\\",
-        "outputPath": "D:\\מעיין\\Workers-management\\server\\Core\\obj\\",
+        "outputPath": "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\מעיין\\Workers-management\\server\\Data\\Data.csproj": {
+    "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\מעיין\\Workers-management\\server\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\מעיין\\Workers-management\\server\\Data\\Data.csproj",
+        "projectPath": "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\משפחת גולדשטיין\\.nuget\\packages\\",
-        "outputPath": "D:\\מעיין\\Workers-management\\server\\Data\\obj\\",
+        "outputPath": "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj": {
-                "projectPath": "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj"
+              "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Core\\Core.csproj": {
+                "projectPath": "D:\\מעיין\\גיבויייי\\פרקטיקום\\server\\Core\\Core.csproj"
               }
             }
           }

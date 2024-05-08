@@ -17,10 +17,15 @@ export class AppComponent {
   }
   tryEnter() {
     if (!this.isLoggedIn()) {
-      this.loginErrorMessage = "For  Worker List You Must Login Before!";
+      this.loginErrorMessage = "For Watching Workers-List You Must Login Before!";
+      setTimeout(() => {
+        this.resetErrorMessage();
+      }, 2000); 
+    } else {
+      this.resetErrorMessage();
     }
-
   }
+  
   goToLogin() {
     this.resetErrorMessage();
     this.router.navigate(['/login']);

@@ -20,10 +20,6 @@ import { RolesModule } from './modules/roles/roles.module';
     LoginComponent,
     AboutPageComponent,
     PageNotFoundComponent,
-  
-   
-   
-   
   ],
   imports: [
     BrowserModule,
