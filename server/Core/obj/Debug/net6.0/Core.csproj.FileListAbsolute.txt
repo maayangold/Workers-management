@@ -37,3 +37,16 @@ H:\❣️❣️❣️פרקטיקום\server\Core\obj\Debug\net6.0\ref\Core.dll
 E:\❣️❣️❣️פרקטיקום\server\Core\obj\Debug\net6.0\Core.dll
 E:\❣️❣️❣️פרקטיקום\server\Core\obj\Debug\net6.0\refint\Core.dll
 E:\❣️❣️❣️פרקטיקום\server\Core\obj\Debug\net6.0\Core.pdb
+D:\מעיין\Workers-management\server\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\מעיין\Workers-management\server\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\מעיין\Workers-management\server\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\מעיין\Workers-management\server\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\מעיין\Workers-management\server\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\מעיין\Workers-management\server\Core\obj\Debug\net6.0\Core.sourcelink.json
+D:\מעיין\Workers-management\server\Core\obj\Debug\net6.0\Core.dll
+D:\מעיין\Workers-management\server\Core\obj\Debug\net6.0\refint\Core.dll
+D:\מעיין\Workers-management\server\Core\obj\Debug\net6.0\Core.pdb
+D:\מעיין\Workers-management\server\Core\bin\Debug\net6.0\Core.deps.json
+D:\מעיין\Workers-management\server\Core\bin\Debug\net6.0\Core.dll
+D:\מעיין\Workers-management\server\Core\bin\Debug\net6.0\Core.pdb
+D:\מעיין\Workers-management\server\Core\obj\Debug\net6.0\ref\Core.dll

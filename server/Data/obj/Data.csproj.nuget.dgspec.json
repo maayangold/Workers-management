@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\❣️❣️❣️פרקטיקום\\server\\Data\\Data.csproj": {}
+    "D:\\מעיין\\Workers-management\\server\\Data\\Data.csproj": {}
   },
   "projects": {
-    "H:\\❣️❣️❣️פרקטיקום\\server\\Core\\Core.csproj": {
+    "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\❣️❣️❣️פרקטיקום\\server\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "H:\\❣️❣️❣️פרקטיקום\\server\\Core\\Core.csproj",
+        "projectPath": "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\משפחת גולדשטיין\\.nuget\\packages\\",
-        "outputPath": "H:\\❣️❣️❣️פרקטיקום\\server\\Core\\obj\\",
+        "outputPath": "D:\\מעיין\\Workers-management\\server\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,18 +71,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\❣️❣️❣️פרקטיקום\\server\\Data\\Data.csproj": {
+    "D:\\מעיין\\Workers-management\\server\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\❣️❣️❣️פרקטיקום\\server\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\מעיין\\Workers-management\\server\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "H:\\❣️❣️❣️פרקטיקום\\server\\Data\\Data.csproj",
+        "projectPath": "D:\\מעיין\\Workers-management\\server\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\משפחת גולדשטיין\\.nuget\\packages\\",
-        "outputPath": "H:\\❣️❣️❣️פרקטיקום\\server\\Data\\obj\\",
+        "outputPath": "D:\\מעיין\\Workers-management\\server\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "H:\\❣️❣️❣️פרקטיקום\\server\\Core\\Core.csproj": {
-                "projectPath": "H:\\❣️❣️❣️פרקטיקום\\server\\Core\\Core.csproj"
+              "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj": {
+                "projectPath": "D:\\מעיין\\Workers-management\\server\\Core\\Core.csproj"
               }
             }
           }
@@ -152,7 +152,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

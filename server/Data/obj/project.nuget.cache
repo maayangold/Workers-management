@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "20bhOkEem5AMCyuzw645w7ElpNQfIM7g4P+/eXZIJAG42QIuYd04WogfMfdoCfghLM+fVqQxwAkXtzevrZrHUw==",
+  "dgSpecHash": "pYESCta33Wz4sGWIgo+I63uJZnFbEijoRpCNnKhPKHjp/OTTsdY4yEi43W/HHCvG0uDDw67Hw2+PVZo0WL3/qA==",
   "success": true,
-  "projectFilePath": "H:\\❣️❣️❣️פרקטיקום\\server\\Data\\Data.csproj",
+  "projectFilePath": "D:\\מעיין\\Workers-management\\server\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משפחת גולדשטיין\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\משפחת גולדשטיין\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
